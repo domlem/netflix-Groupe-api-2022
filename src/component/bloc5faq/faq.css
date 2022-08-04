@@ -1,0 +1,103 @@
+
+.blocfaq{
+  background-color:black;
+  width:100%;
+  height:1000px;
+  z-index:3;
+  
+}
+
+.marge5 {
+  position:absolute;
+  width:100%;
+  background-color:gray ;
+  border-top-width: 10px;
+  border-top-style: solid;
+  z-index:4;
+}
+
+.containfaq {
+  padding-top: 50px;
+  display:flex;
+  flex-direction: column;
+   height:1200px; 
+  background-color:black;
+  align-items: center;
+
+}
+.contain5{
+  margin-top: 30px;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width:100%;
+  height:60px;
+}
+
+h1{
+  font-size: 300%;
+  font-weight: 700;
+  color:white;
+}
+h5{
+  margin-top: 40px;
+  max-width: 800px;
+  text-align: center;
+  color:white;
+}
+
+.panel-heading{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.panel-default{
+  margin-top: 30px;
+} 
+ .panel-items{
+  max-width:800px; 
+ }
+
+.positV{
+  padding-top: 1px;
+  border:none;
+  color:white;
+  font-size: 25px;
+ margin-left: -5%;
+  flex-wrap: nowrap;
+}
+
+.panel-button{
+  padding-left: 20px;
+  background-color: rgb(72, 72, 72);
+  color:white;
+  font-size: 25px;
+   border :none;
+   border-bottom:solid 2px black; 
+  min-width:800px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.collapse{
+  font-size: 25px;
+  max-width:800px;
+  color:white;
+  background-color: rgb(72, 72, 72);
+}
+
+.rotation{
+  margin-top: -60px;
+  margin-right: 3.1%;
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
