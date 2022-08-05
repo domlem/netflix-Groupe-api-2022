@@ -2,8 +2,8 @@
 
 La page Home regroupe l'ensembles des blocs
 
-dans Home :  image de fond et logo ‡ gauche + " bouttonLogin " (langue) + boutton centre " Commencer " avec texte
+dans Home :  image de fond et logo √† gauche + " bouttonLogin " (langue) + boutton centre " Commencer " avec texte
 
 viennent ensuite les Blocs : 1, 2, 3, 4, 5-faq, 6-footer
 
-Je n'ai pas toucher au reste, j'ai repris le projet tel qu'il Ètait au dÈpart
+Je n'ai pas touch√© au reste, j'ai repris le projet tel qu'il √©tait au d√©part
